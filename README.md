@@ -1,3 +1,9 @@
+---
+title: "Logstash Rolling Encrypted Logs"
+tags: logstash logging encryption
+date: 2015-08-10
+---
+
 Logstash does not currently support rolling file output. The _pipe_ output can be used with a Python script using 
 logging support which *does* support rolling files.
 As an added bonus, each log message is encrypted.
