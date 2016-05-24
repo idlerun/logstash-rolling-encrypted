@@ -1,4 +1,5 @@
 ---
+page: http://www.idle.run/logstash-rolling-encrypted
 title: "Logstash Rolling Encrypted Logs"
 tags: logstash logging encryption
 date: 2015-08-10
